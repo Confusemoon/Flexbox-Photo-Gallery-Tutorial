@@ -58,7 +58,7 @@ open index.html
 
 ```css
 .gallery-card {
-    flex: 1 1 300px; /* Flex-grow | Flex-shrink | Flex-basis */
+    flex: 1 1 300px; 
     max-width: 400px;
     background: #fff;
     border-radius: 8px;
@@ -81,26 +81,24 @@ open index.html
 ```
 ## Customization
 ### Modify these properties to match your needs:
-```css
-/* Change columns */
-.gallery-card { flex-basis: 250px; }
-
-/* Adjust spacing */
-.gallery-container { gap: 2rem; }
-
-/* Modify card appearance */
-.gallery-card {
-    background: #f8f9fa;
-    border-radius: 12px;
-    border: 1px solid #dee2e6;
-}
-```
 
 1, Change columns: Adjust flex-basis value
 
 2, Modify spacing: Update gap property
 
 3, Change card style: Edit background/border-radius
+
+```css
+.gallery-card { flex-basis: 250px; }
+
+.gallery-container { gap: 2rem; }
+
+.gallery-card {
+    background: #f8f9fa;
+    border-radius: 12px;
+    border: 1px solid #dee2e6;
+}
+```
 
 ## CSS transitions
 
