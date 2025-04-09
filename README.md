@@ -18,6 +18,9 @@ suitable for HTML/CSS beginners.
 
 ## Installation
 ```bash
-git clone https://github.com/yourusername/responsive-flex-gallery.git
+git clone https://github.com/Confusemoon/Flexbox-Photo-Gallery-Tutorial.git
 cd responsive-flex-gallery
 open index.html
+
+## Code Explanation
+### HTML Structure
