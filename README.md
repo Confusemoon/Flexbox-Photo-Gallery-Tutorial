@@ -5,6 +5,8 @@ suitable for HTML/CSS beginners.
 
 ## Live Demo
 [View on GitHub Pages](https://confusemoon.github.io/Flexbox-Photo-Gallery-Tutorial/) 
+![Tutorial](https://github.com/user-attachments/assets/8c79fa8b-5025-4451-92a0-dac9324f2e39)
+
 
 ## Features
 - Responsive grid layout
