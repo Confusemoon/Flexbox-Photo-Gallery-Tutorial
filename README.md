@@ -51,7 +51,7 @@ open index.html
 }
 ```
 
-### 3.Responsive Cards
+## 3.Responsive Cards
 ### Create flexible cards with size constraints:
 
 ```css
@@ -93,8 +93,6 @@ open index.html
     border: 1px solid #dee2e6;
 }
 ```
-
-## Customization
 
 1, Change columns: Adjust flex-basis value
 
