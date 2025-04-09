@@ -4,7 +4,7 @@ Learn how to create a responsive photo gallery using CSS Flexbox. This tutorial 
 suitable for HTML/CSS beginners.
 
 ## Live Demo
-[View on GitHub Pages](https://github.com/Confusemoon/Flexbox-Photo-Gallery-Tutorial)
+[View on GitHub Pages](https://confusemoon.github.io/Flexbox-Photo-Gallery-Tutorial/) 
 
 ## Features
 - Responsive grid layout
