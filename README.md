@@ -36,7 +36,6 @@ open index.html
         <img src="image.jpg" alt="Description">
         <div class="caption">Image Title</div>
     </div>
-    <!-- Add more cards -->
 </div>
 ```
 
